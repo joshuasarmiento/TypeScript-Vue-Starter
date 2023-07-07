@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, PropType, ref } from 'vue';
+import { defineComponent, PropType } from 'vue';
 import Job from '../types/job';
 import OrderTerm from '../types/orderterm';
 
