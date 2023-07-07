@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Daniel asd asd",
+      "location": "Pasig City",
+      "salary": 15000
+    },
+    {
+      "id": 2,
+      "title": "Carl dasd asd",
+      "location": "Mandaluyong City",
+      "salary": 20000
+    },
+    {
+      "id": 3,
+      "title": "Edward asdasdas",
+      "location": "Pasay",
+      "salary": 35000
+    }
+  ]
+  
